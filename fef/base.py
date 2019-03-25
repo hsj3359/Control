@@ -12,8 +12,8 @@ class MyApp(QWidget):
     def initUI(self):
 
         self.setWindowTitle('My First Application')
-        self.move(300, 300)
-        self.resize(400, 200)
+        self.move(200, 200)
+        self.resize(1200, 800)
         self.show()
 
 
